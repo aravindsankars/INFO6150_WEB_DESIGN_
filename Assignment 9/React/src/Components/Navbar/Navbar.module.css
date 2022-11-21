@@ -2,8 +2,16 @@
   margin: 10px 0;
   display: flex;
   justify-content: center;
+  margin-left: 70%;
 }
 
 .Container a {
   margin-right: 20px;
+  color: rgb(35, 65, 65);
 }
+
+.Container a:hover {
+  color: tomato;
+}
+
+

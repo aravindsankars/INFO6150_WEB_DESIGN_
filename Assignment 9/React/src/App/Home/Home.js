@@ -37,7 +37,7 @@ const Home = () => {
       <PageCard
         title={"Home Page"}
         desc={
-          "This is Home Page. You have signed in successfully and hence you are here!"
+          "This is Home Page. Since you are here please sign in!"
         }
       />
       <div className={classes.inputContainer}>

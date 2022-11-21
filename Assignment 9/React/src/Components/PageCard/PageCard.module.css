@@ -3,7 +3,16 @@
     border:1px solid black;
     padding:20px;
     text-align: center;
+    color: darkslategrey;
+    background-color: burlywood;
 }
 .Container div{
     margin-top:20px;
+    background-color: burlywood;
+}
+
+h1{
+    background-color: burlywood;
+    text-decoration: underline;
+    text-decoration-color: darkslategrey;
 }
